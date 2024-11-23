@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include "matrices.h"
 int main(){
-printf("Bienvenidos a todos.\n");
+printf("Bienvenidos a todos y todas.\n");
 int matriz[2][2];
 int *puntero = &matriz[0][0];
 leerM(puntero,2,2);
